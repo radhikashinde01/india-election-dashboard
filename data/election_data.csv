@@ -1,0 +1,19 @@
+Year,Constituency,Candidate,Party,Votes,Total_Votes,Gender
+2020,Northville,John Smith,Party A,25000,50000,M
+2020,Northville,Emily Davis,Party B,22000,50000,F
+2020,Northville,Michael Lee,Party C,3000,50000,M
+2020,Southtown,Sarah Johnson,Party B,27000,60000,F
+2020,Southtown,David Brown,Party A,25000,60000,M
+2020,Southtown,Linda White,Party C,8000,60000,F
+2021,Northville,John Smith,Party A,27000,52000,M
+2021,Northville,Emily Davis,Party B,20000,52000,F
+2021,Northville,Michael Lee,Party C,5000,52000,M
+2021,Southtown,Sarah Johnson,Party B,26000,59000,F
+2021,Southtown,David Brown,Party A,27000,59000,M
+2021,Southtown,Linda White,Party C,6000,59000,F
+2022,Northville,John Smith,Party A,23000,48000,M
+2022,Northville,Emily Davis,Party B,22000,48000,F
+2022,Northville,Michael Lee,Party C,3000,48000,M
+2022,Southtown,Sarah Johnson,Party B,28000,61000,F
+2022,Southtown,David Brown,Party A,27000,61000,M
+2022,Southtown,Linda White,Party C,6000,61000,F
