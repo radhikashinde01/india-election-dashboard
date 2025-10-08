@@ -20,6 +20,5 @@ This project helps understand trends such as:
 ✅ Identify **winning party per constituency**  
 ✅ Simple and clean **Streamlit GUI** (no coding required by user)  
 
----
 
-## 📂 Project Structure
+
