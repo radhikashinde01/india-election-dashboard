@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Data (optional: avoid pushing large raw data)
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
